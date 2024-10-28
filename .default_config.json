@@ -1,0 +1,9 @@
+{
+    "host_address" : "0.0.0.0",
+    "htpasswd_path" : ".htpasswd",
+    "secret" : "test",
+    "otp_info_path" : "otp_info.json",
+    "log_path" : "otp.log",
+    "server_port" : 5000,
+    "debug" : true
+}

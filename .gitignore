@@ -1,0 +1,6 @@
+.venv
+__pycache__
+.config.json
+.htpasswd
+otp_info.json
+otp.log
